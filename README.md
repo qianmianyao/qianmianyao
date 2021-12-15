@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=qianmianyao&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
-- 🎮 I'm FPS gamers, i often play the game is `CSGO` and `RainbowSix:Siege`
+- 🎮 游戏: 唯一的爱好是 `LOL`
 - 📡 I'm noob HAM, my call sign is `BG5ISN`
 - 💻 My profession is system integration engineer
 - 📺 My hobby is anime and pure music
