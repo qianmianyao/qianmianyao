@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 💻 My profession is system integration engineer
 - 📺 My hobby is anime and pure music
 - 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianmianyao&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianmianyao&layout=compact) -->
