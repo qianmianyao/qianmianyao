@@ -7,9 +7,10 @@
 The following is a brief introduction about me:
 
 - 🔭 I’m currently learning on `Python` and `Go`
-- 📫 How to reach me: zp1998421@gmail.com
 - 😄 Pronouns: 人生不过百，常怀千岁忧，昼短苦夜长，何不秉烛游
-- ⚡ Fun fact: ...
+- 📫 How to reach me: 
+[![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i@mikuac.com)
+[![](https://img.shields.io/badge/-Telegram-444?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MisakaTAT)
 
 ### Langs & Tools ⚙
 ![](https://img.shields.io/badge/-Golang-7ed5ea?style=flat-square&logo=Go&labelColor=04abd7&logoColor=white)
