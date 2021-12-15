@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=qianmianyao)
+<a href="https://github.com/MisakaTAT">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qianmianyao&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
+</a>
+
+- 🎮 I'm FPS gamers, i often play the game is `CSGO` and `RainbowSix:Siege`
+- 📡 I'm noob HAM, my call sign is `BG5ISN`
+- 💻 My profession is system integration engineer
+- 📺 My hobby is anime and pure music
+- 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianmianyao&layout=compact)
