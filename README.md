@@ -1,7 +1,7 @@
 ### About Me 👋
 
 <a href="https://github.com/MisakaTAT">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qianmianyao&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qianmianyao&show_icons=true&hide_border=true&title_color=a0a9af" width="400px" />
 </a>
 
 The following is a brief introduction about me:
