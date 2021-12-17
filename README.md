@@ -19,4 +19,3 @@ The following is a brief introduction about me:
 ![](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![](https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianmianyao&layout=compact)
