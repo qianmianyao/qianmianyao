@@ -1,8 +1,7 @@
 ### About Me 👋
 
-<a href="https://github.com/MisakaTAT">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qianmianyao&show_icons=true&hide_border=true&icon_color=DB7093&title_color=DB7093" width="400px" />
-</a>
+
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=qianmianyao&show_icons=true&hide_border=true&icon_color=DB7093&title_color=DB7093" width="400px" />
 
 The following is a brief introduction about me:
 
@@ -19,5 +18,3 @@ The following is a brief introduction about me:
 ![](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![](https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianmianyao&layout=compact)
