@@ -2,6 +2,8 @@
 
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qianmianyao&show_icons=true&hide_border=true&icon_color=DB7093&title_color=DB7093" width="400px" />
+ 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianmianyao&layout=compact)
 
 The following is a brief introduction about me:
 
