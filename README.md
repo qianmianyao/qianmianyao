@@ -15,8 +15,8 @@ The following is a brief introduction about me:
 ### Langs & Tools ⚙
 ![](https://img.shields.io/badge/-Golang-7ed5ea?style=flat-square&logo=Go&labelColor=04abd7&logoColor=white)
 ![](https://img.shields.io/badge/-Python-1D415E?style=flat-square&logo=Python&labelColor=3772A2&logoColor=FFDA4C)
+![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=white)
 ![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=white)
 ![](https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)
